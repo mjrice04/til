@@ -23,5 +23,6 @@ for item in my_list:
 flat_list = [item for sublist in column_keeper for item in sublist]
 ```
 
-Returns `['apple_sauce','cherry_cola']
+Returns `['apple_sauce','cherry_cola']`
+
  
