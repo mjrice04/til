@@ -1,4 +1,4 @@
 # til
-Organizing what I learn in the world in technology (and maybe beyond). I am attempting to learn in public
+I am attempting to learn in public by tracking small snippets and concepts I learn through out my workday
 
 Directly inspired by: https://github.com/jbranchaud/til
